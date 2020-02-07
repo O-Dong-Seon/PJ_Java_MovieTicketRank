@@ -2,13 +2,13 @@
 DESC: 현재 예매순위 1~10위 영화를 네이버와 다음에서 평점을  
 수집하여 요약통계량 및 분석결과를 제공
 
-### :Attention(Warling)
+### :Attention(Warning)
 > project는 ticketrank, domain, persistence, mybatis패키지만 사용
 daum과 naver패키지는 프로젝트를 진행하기 위한 연습용 예제 코드
 
 ### :star:1.Use Tools  
- +Language&Library: JAVA, jSoup, Mybatis, Oracle, sql
- +IDE: Eclipse, SqlDeveloper
+ - **Language&Library: JAVA, jSoup, Mybatis, Oracle, sql
+ - **IDE: Eclipse, SqlDeveloper
  
 ### :star:2.Process Logic(ticketrank)
 1.네이버 예매순위 1~10위 영화제목과 네이버 영화코드 수집
